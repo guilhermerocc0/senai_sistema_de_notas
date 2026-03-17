@@ -1,0 +1,26 @@
+RELATORIO DE DESEMPENHO ACADEMICO
+----------------------------------
+
+Aluno: Ana
+Notas: [8, 7, 9]
+Média: 8.00
+
+Aluno: Carlos
+Notas: [6, 5, 7]
+Média: 6.00
+
+Aluno: Maria
+Notas: [10, 9, 8]
+Média: 9.00
+
+Aluno: Joao
+Notas: [6, 6, 5]
+Média: 5.67
+
+----------------------------------
+Alunos em Recuperação:
+- Carlos
+- Joao
+
+Top Student:
+Maria com média 9.00
